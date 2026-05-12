@@ -46,8 +46,8 @@ if (pid == 0) {
 
 ##OUTPUT
 
+<img width="237" height="101" alt="Screenshot 2026-05-12 111822" src="https://github.com/user-attachments/assets/346e3ffe-e84b-4a41-abdf-0ef2fbb1e19f" />
 
-<img width="356" height="124" alt="image" src="https://github.com/user-attachments/assets/437b6a20-537d-4096-92fc-5466f24063b4" />
 
 
 
@@ -115,7 +115,7 @@ return 0;
 
 
 
-<img width="666" height="312" alt="image" src="https://github.com/user-attachments/assets/7035a4a1-6df8-4625-8284-40735de155cf" />
+<img width="693" height="305" alt="Screenshot 2026-05-12 112401" src="https://github.com/user-attachments/assets/2b5a8787-d3d7-4d39-832e-84471caf38fe" />
 
 
 
